@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/giphyAPI_React-Redux/./static/css/main.7704b253.chunk.css",
+    "main.js": "/giphyAPI_React-Redux/./static/js/main.022cf8ac.chunk.js",
+    "main.js.map": "/giphyAPI_React-Redux/./static/js/main.022cf8ac.chunk.js.map",
+    "runtime~main.js": "/giphyAPI_React-Redux/./static/js/runtime~main.75467370.js",
+    "runtime~main.js.map": "/giphyAPI_React-Redux/./static/js/runtime~main.75467370.js.map",
+    "static/js/2.bad7025c.chunk.js": "/giphyAPI_React-Redux/./static/js/2.bad7025c.chunk.js",
+    "static/js/2.bad7025c.chunk.js.map": "/giphyAPI_React-Redux/./static/js/2.bad7025c.chunk.js.map",
+    "index.html": "/giphyAPI_React-Redux/./index.html",
+    "precache-manifest.122981c49240956546a8771d330f0e33.js": "/giphyAPI_React-Redux/./precache-manifest.122981c49240956546a8771d330f0e33.js",
+    "service-worker.js": "/giphyAPI_React-Redux/./service-worker.js",
+    "static/css/main.7704b253.chunk.css.map": "/giphyAPI_React-Redux/./static/css/main.7704b253.chunk.css.map"
+  }
+}
